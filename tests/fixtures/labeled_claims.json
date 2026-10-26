@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "claim": "RBI kept the repo rate unchanged at 6.5 percent.",
+    "language": "en",
+    "expected_verdict": "VERIFIED",
+    "notes": "Reported consistently by multiple independent national outlets"
+  },
+  {
+    "id": 2,
+    "claim": "Government has announced a complete ban on 500 rupee notes starting tomorrow.",
+    "language": "en",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "Debunked by official fact-checks and PIB"
+  },
+  {
+    "id": 3,
+    "claim": "India won the cricket test match by 5 wickets in Mumbai.",
+    "language": "en",
+    "expected_verdict": "PARTIAL",
+    "notes": "India won by 4 wickets, not 5"
+  },
+  {
+    "id": 4,
+    "claim": "UNESCO declared the Indian national anthem as the best anthem in the world.",
+    "language": "en",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "Classic recurring hoax explicitly debunked by fact-checkers"
+  },
+  {
+    "id": 5,
+    "claim": "Aliens landed in a village near New Delhi yesterday.",
+    "language": "en",
+    "expected_verdict": "UNVERIFIED",
+    "notes": "No credible reporting from any trusted source"
+  },
+  {
+    "id": 6,
+    "claim": "ISRO launched a new earth observation satellite into orbit.",
+    "language": "en",
+    "expected_verdict": "VERIFIED",
+    "notes": "Confirmed by ISRO and reported across national media"
+  },
+  {
+    "id": 7,
+    "claim": "World Bank approved a new green energy infrastructure grant for India.",
+    "language": "en",
+    "expected_verdict": "PARTIAL",
+    "notes": "It is a low-interest loan rather than a non-repayable grant"
+  },
+  {
+    "id": 8,
+    "claim": "Free smartphones are being distributed by the central government to all university students via a private link.",
+    "language": "en",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "Phishing scam debunked by PIB Fact Check"
+  },
+  {
+    "id": 9,
+    "claim": "A secret time machine was discovered beneath the Himalayas.",
+    "language": "en",
+    "expected_verdict": "UNVERIFIED",
+    "notes": "Absence of evidence from any credible news organisation"
+  },
+  {
+    "id": 10,
+    "claim": "Supreme Court agreed to hear petition regarding digital privacy guidelines.",
+    "language": "en",
+    "expected_verdict": "VERIFIED",
+    "notes": "Reported by court reporters and national legal desks"
+  },
+  {
+    "id": 11,
+    "claim": "Petrol prices slashed by 50 rupees across all Indian states overnight.",
+    "language": "en",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "Viral false rumour contradicting official oil marketing pricing"
+  },
+  {
+    "id": 12,
+    "claim": "New species of frog discovered in Western Ghats by Indian researchers.",
+    "language": "en",
+    "expected_verdict": "PARTIAL",
+    "notes": "Only single specialized research journal outlet published so far"
+  },
+  {
+    "id": 13,
+    "claim": "आरबीआई ने रेपो रेट में कोई बदलाव नहीं किया और इसे 6.5 प्रतिशत पर बरकरार रखा।",
+    "language": "hi",
+    "expected_verdict": "VERIFIED",
+    "notes": "आरबीआई मौद्रिक नीति समिति का आधिकारिक निर्णय"
+  },
+  {
+    "id": 14,
+    "claim": "सरकार ने 500 रुपये के नोट बंद करने का आदेश जारी किया है।",
+    "language": "hi",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "बूम और पीआईबी द्वारा झूठा करार दिया गया"
+  },
+  {
+    "id": 15,
+    "claim": "कल से देश के सभी स्कूल और कॉलेज एक महीने के लिए बंद रहेंगे।",
+    "language": "hi",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "सोशल मीडिया अफवाह, कोई सरकारी परिपत्र नहीं"
+  },
+  {
+    "id": 16,
+    "claim": "भारत ने मुंबई में खेले गए मैच में 4 विकेट से जीत दर्ज की।",
+    "language": "hi",
+    "expected_verdict": "VERIFIED",
+    "notes": "प्रमुख खेल समाचार पत्रों द्वारा पुष्टि"
+  },
+  {
+    "id": 17,
+    "claim": "प्रधानमंत्री ने प्रत्येक नागरिक के बैंक खाते में 25,000 रुपये भेजने की घोषणा की है।",
+    "language": "hi",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "फर्जी योजना, पीआईबी द्वारा खंडन"
+  },
+  {
+    "id": 18,
+    "claim": "वाराणसी में रहस्यमयी उड़न तश्तरी देखी गई।",
+    "language": "hi",
+    "expected_verdict": "UNVERIFIED",
+    "notes": "विश्वसनीय स्रोतों में कोई प्रमाण नहीं"
+  },
+  {
+    "id": 19,
+    "claim": "भारतीय रेलवे ने वरिष्ठ नागरिकों के लिए रियायतें पूरी तरह बहाल कर दी हैं।",
+    "language": "hi",
+    "expected_verdict": "PARTIAL",
+    "notes": "केवल चुनिंदा श्रेणियों और चर्चा के स्तर पर, पूर्ण बहाली नहीं"
+  },
+  {
+    "id": 20,
+    "claim": "इसरो ने एक नया उपग्रह सफलतापूर्वक प्रक्षेपित किया।",
+    "language": "hi",
+    "expected_verdict": "VERIFIED",
+    "notes": "इसरो और समाचार चैनलों द्वारा प्रमाणित"
+  },
+  {
+    "id": 21,
+    "claim": "दिल्ली में कल रात एक अज्ञात जीव घूमता पाया गया।",
+    "language": "hi",
+    "expected_verdict": "UNVERIFIED",
+    "notes": "कोई सत्यापित साक्ष्य नहीं"
+  },
+  {
+    "id": 22,
+    "claim": "यूनेस्को ने भारत के राष्ट्रगान को दुनिया का सर्वश्रेष्ठ घोषित किया।",
+    "language": "hi",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "अनेक वर्षों से खंडित भ्रामक दावा"
+  },
+  {
+    "id": 23,
+    "claim": "ఆర్బీఐ రెపో రేటును 6.5 శాతంగా కొనసాగించాలని నిర్ణయించింది.",
+    "language": "te",
+    "expected_verdict": "VERIFIED",
+    "notes": "ఆర్బీఐ గవర్నర్ ప్రకటన మరియు విశ్వసనీయ వార్తలు"
+  },
+  {
+    "id": 24,
+    "claim": "రేపటి నుంచి 500 రూపాయల నోట్లు చెల్లవు అని ప్రభుత్వం ప్రకటించింది.",
+    "language": "te",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "ఫ్యాక్ట్ చెక్‌లో అబద్ధమని తేలిన వాట్సాప్ వదంతు"
+  },
+  {
+    "id": 25,
+    "claim": "హైదరాబాద్‌లో భారీ వర్షాల కారణంగా రేపు పాఠశాలలకు సెలవు ప్రకటించారు.",
+    "language": "te",
+    "expected_verdict": "PARTIAL",
+    "notes": "సమాచారం పాత తేదికి చెందినది కావచ్చు లేదా అధికారిక ఉత్తర్వు పరిశీలనలో ఉంది"
+  },
+  {
+    "id": 26,
+    "claim": "భారత క్రికెట్ జట్టు ముంబై టెస్ట్ మ్యాచ్‌లో విజయం సాధించింది.",
+    "language": "te",
+    "expected_verdict": "VERIFIED",
+    "notes": "ప్రధాన వార్తా సంస్థల నివేదిక"
+  },
+  {
+    "id": 27,
+    "claim": "ప్రభుత్వం ప్రతి విద్యార్థికి ఉచిత ల్యాప్‌టాప్ ఇస్తుందని వాట్సాప్ లింక్ ద్వారా మెసేజ్ వచ్చింది.",
+    "language": "te",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "సైబర్ మోసం మరియు ఫేక్ మెసేజ్"
+  },
+  {
+    "id": 28,
+    "claim": "హిమాలయాల్లో ప్రాచీన కాలయంత్రం బయటపడింది.",
+    "language": "te",
+    "expected_verdict": "UNVERIFIED",
+    "notes": "విశ్వసనీయ వార్తలలో ఎటువంటి సమాచారం లేదు"
+  },
+  {
+    "id": 29,
+    "claim": "ఇస్రో సరికొత్త ఉపగ్రహాన్ని విజయవంతంగా ప్రయోగించింది.",
+    "language": "te",
+    "expected_verdict": "VERIFIED",
+    "notes": "ఇస్రో అధికారిక ప్రకటన"
+  },
+  {
+    "id": 30,
+    "claim": "పెట్రోల్ ధరలు రాత్రికి రాత్రే 30 రూపాయలు తగ్గాయి.",
+    "language": "te",
+    "expected_verdict": "CONTRADICTED",
+    "notes": "అధికారిక ఇంధన ధరలతో విభేదించే అసత్య వార్త"
+  },
+  {
+    "id": 31,
+    "claim": "విశాఖపట్నం సముద్రంలో వింత జీవి కనిపించింది.",
+    "language": "te",
+    "expected_verdict": "UNVERIFIED",
+    "notes": "ఎలాంటి ఆధారం లేని సామాజిక మాధ్యమ ప్రచారం"
+  },
+  {
+    "id": 32,
+    "claim": "సుప్రీంకోర్టు డిజిటల్ భద్రతా నిబంధనలపై విచారణ చేపట్టనుంది.",
+    "language": "te",
+    "expected_verdict": "VERIFIED",
+    "notes": "న్యాయస్థాన నివేదికల ఆధారంగా ధ్రువీకరించబడింది"
+  }
+]

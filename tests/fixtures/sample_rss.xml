@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Sample News Outlet</title>
+  <link>https://example.com</link>
+  <description>Sample RSS Feed</description>
+  <item>
+    <title>RBI keeps repo rate unchanged at 6.5 percent</title>
+    <link>https://example.com/rbi-rate-unchanged</link>
+    <description>The Reserve Bank of India decided to keep the benchmark repo rate unchanged at 6.5 percent.</description>
+    <pubDate>Thu, 08 Oct 2026 10:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>India win cricket test match in Mumbai</title>
+    <link>https://example.com/india-cricket-win</link>
+    <description>India secured a victory against Australia by 4 wickets in Mumbai.</description>
+    <pubDate>Thu, 08 Oct 2026 12:30:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
